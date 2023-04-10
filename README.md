@@ -8,7 +8,8 @@ import math file
 ### Step 2: 
 get the values of two list from the users
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula  ![image](https://user-images.githubusercontent.com/118707879/230821798-f202a59b-982f-45a7-a71c-4dd2b894ef11.png)
+
 ### Step 4:
 print the distance betweeen two points
 ### Step 5: 
